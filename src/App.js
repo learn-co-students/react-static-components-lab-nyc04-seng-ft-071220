@@ -7,6 +7,7 @@ class App extends Component {
 			<div className="App">
 				<CatComponent />
 				<GraceHopperQuoteComponent />
+				<MouseComponent.js />
 				{/* one more component missing */}
 			</div>
 		);
